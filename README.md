@@ -1,5 +1,5 @@
 # Introduction
-Project deign credit to Insight Date Engineering
+
 Author: Liping Ding
 Date: Feb 10th 2018
 
