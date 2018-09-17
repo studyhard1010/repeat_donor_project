@@ -1,7 +1,6 @@
 # Introduction
 
-Author: Liping Ding
-Date: Feb 10th 2018
+Author: Janet Ding
 
 # Problems and Research
 For the concept of the n-th percentile, refer to here: https://en.wikipedia.org/wiki/Percentile
