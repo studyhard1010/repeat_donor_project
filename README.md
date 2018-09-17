@@ -37,7 +37,7 @@ However, if the n-th percentile is based on a continues distribution, for exampl
 
 # Compile Instruction
 To build and debug: 
-repeat_donor_project_liping~$ ./run.sh
+repeat_donor_project~$ ./run.sh
 
 To run test cases:
 insight_donor_project~$ ./run_tests.sh
