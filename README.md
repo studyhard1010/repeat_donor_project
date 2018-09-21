@@ -1,7 +1,5 @@
 # Introduction
 
-Author: Janet Ding
-
 # Problems and Research
 For the concept of the n-th percentile, refer to here: https://en.wikipedia.org/wiki/Percentile
 
